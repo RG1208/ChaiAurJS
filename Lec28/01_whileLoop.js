@@ -14,3 +14,4 @@ while (arr < myArr.length) {
     console.log(myArr[arr])
     arr++
 }
+
